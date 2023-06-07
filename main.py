@@ -1,2 +1,2 @@
-addedvalue=(a+b)
-dividedbytwo=addedvalue/2
+h=4
+print(dividedByTwo*h)
